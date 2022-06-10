@@ -1,13 +1,3 @@
-#################################################################
-# FILE : bomb.py
-# WRITER 1 : noam shabat , no.amshabat1 , 206515579
-# WRITER 2 : Eden Faingold, edenfaingold, 318227113
-# EXERCISE : intro2cs2 ex10 2021
-# DESCRIPTION: A class that initialize and activate the bombs in the game
-# STUDENTS I DISCUSSED THE EXERCISE WITH:
-# WEB PAGES I USED: stackoverflow.com
-#################################################################
-
 class Bomb:
     BOMB_COLOR = "red"
     WAVE_COLOR = "orange"
