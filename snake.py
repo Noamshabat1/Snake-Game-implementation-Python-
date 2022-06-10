@@ -1,13 +1,3 @@
-#################################################################
-# FILE : snake.py
-# WRITER 1 : noam shabat , no.amshabat1 , 206515579
-# WRITER 2 : Eden Faingold, edenfaingold, 318227113
-# EXERCISE : intro2cs2 ex10 2021
-# DESCRIPTION: A class that initializes the snake, moves it, and provides information about him
-# STUDENTS I DISCUSSED THE EXERCISE WITH:
-# WEB PAGES I USED: stackoverflow.com
-#################################################################
-
 class Snake:
     def __init__(self):
         """
